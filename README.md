@@ -1,3 +1,4 @@
+![logo](https://github.com/adnan-rajput/adnan-rajput/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Adnan Rajput</h1>
 <h3 align="center">Detail-oriented software developer with Masters in computer science</h3>
 
